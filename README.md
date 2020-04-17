@@ -6,7 +6,8 @@ Bikeshare analysis
 
 ### Description
 The project provides an interactive analysis of the US bikeshare market for
-the cities of Chicago, New York City and Washington.
+the cities of Chicago, New York City and Washington. It queries user input and
+then provides descriptive statistics for the desired filters.
 
 ### Files used
 bikeshare.py
