@@ -2,7 +2,7 @@
 April 17, 2020
 
 ### Project Title
-Bikeshare analysis
+US bikeshare analysis (interactive)
 
 ### Description
 The project provides an interactive analysis of the US bikeshare market for
