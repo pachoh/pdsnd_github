@@ -34,7 +34,7 @@ def get_filters():
         print('You have selected the city of: ' + city + '.')
 
     # get user input for month (all, january, february, ... , june)
-    month = str(input('Would you like to filter by a certain month? If yes, please state a month between "January" and "June". If not, please return "all": ')).lower()
+    month = str(input('Would you like to filter by a certain month between January and June? If yes, please state a month between "January" and "June". If not, please return "all": ')).lower()
 
     if month == 'all':
         print('No filter for months will be applied.')
